@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Jersey+25&display=swap");
 
 body {
-  background-color: black;
+  background-color: rgb(24, 15, 34);
 }
 
 div {
@@ -11,6 +11,7 @@ div {
   max-width: 800px;
   text-align: center;
   margin: auto;
+  height: 1400px;
 }
 img {
   max-width: 80%;
