@@ -1,8 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+25&display=swap");
+
 body {
-  background-color: #1a1a1a;
-  color: white;
+  background-color: black;
+}
+
+div {
+  background-color: #251442;
+  font-family: "jersey 25";
+  color: rgb(0, 0, 0);
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+}
+img {
+  max-width: 80%;
+  max-height: 500px;
+  padding-top: 15px;
+}
+p {
+  font-size: 20px;
+  color: rgb(207, 198, 225);
 }
 
 a {
-  color: white;
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aliceblue;
+}
+button {
+  font-family: "jersey 25";
+  background-color: gold;
+  font-size: 22px;
+  margin: 10px;
+}
+button:hover {
+  padding: 10px 20 px;
+  background-color: #110270;
+}
+.achievement {
+  color: gold;
+  font-weight: 500;
+}
+
+h1 {
+  padding-top: 40px;
+  color: rgb(207, 198, 225);
+}
+.teaser {
+  padding-top: 30px;
+  color: rgb(207, 198, 225);
+}
+.Félicitaions {
+  color: gold;
+  font-size: 25px;
 }
